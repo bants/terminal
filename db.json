@@ -1,0 +1,47 @@
+{
+    "terminals": [
+	{
+	    "id": 1,
+	    "name": "Vancouver Intermodal",
+	    "province": "British Columbia",
+	    "city": "Pitt Meadows"
+	},
+	{
+	    "id": 2,
+	    "name": "Bensenville Intermodal",
+	    "province": "Illinois",
+	    "city": "Franklin Park"
+	},
+	{
+	    "id": 3,
+	    "name": "Calgary Intermodal",
+	    "province": "Alberta",
+	    "city": "Calgary"
+	},
+	{
+	    "id": 4,
+	    "name": "Edmonton Intermodal",
+	    "province": "Alberta",
+	    "city": "Edmonton"
+	},
+	{
+	    "id": 5,
+	    "name": "Schiller Park Container",
+	    "province": "Illinois",
+	    "city": "Schiller Park"
+	},
+	{
+	    "id": 6,
+	    "name": "Winnipeg Intermodal",
+	    "province": "Manitoba",
+	    "city": "Winnipeg"
+	},
+	{
+	    "id": 7,
+	    "name": "Vaughan Intermodal",
+	    "province": "Ontario",
+	    "city": "Kleinburg"
+	}
+    ]
+}
+
